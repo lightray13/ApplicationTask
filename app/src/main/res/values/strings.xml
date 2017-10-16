@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ApplicationTask</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="user_id">User Id</string>
+    <string name="post_id">Post Id</string>
+    <string name="id">Id</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="user_name">User name</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="completed">Completed</string>
+</resources>
